@@ -52,10 +52,10 @@ Projet éducatif sous la supervision du FISTO Club IT FSO.
 
 ## 👤 Vos Contact
 
-- **NOM COMPLET**: ...
-- **AGE**: ...
-- **Discord ID**: ...
-- **Établissement**: ...
+- **NOM COMPLET**: ElGuerrouj Mohammed Yassine
+- **AGE**: 21
+- **Discord ID**: yassinee.
+- **Établissement**: Faculté des Sciences Oujda
 
 ---
 
